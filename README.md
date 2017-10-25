@@ -3,7 +3,7 @@ TITLE:
 Salesforce Works
 
 AUTHOR:
-DESIGNED & DEVELOPED by Aditya Ram
+ Developed by Aditya Ram
 
 
 CREDITS:
